@@ -1,0 +1,36 @@
+:root{
+    --cor1:#22D4FD;
+    --cor2:#F6F6F6;
+
+}
+
+h1{
+    color: var(--cor2);
+    font-size: 36px;
+    font-family: 'krona one';
+
+}
+
+strong{
+    color: var(--cor1);
+    font-size: 36px;
+    font-family: 'krona one';  
+}
+
+p{
+    color: var(--cor2);
+    font-size: 24px;
+    font-family: 'Montserrat';  
+}
+
+
+
+
+a{
+    background-color: var(--cor1);
+}
+
+main{
+    background-color: black;
+    display: flex;
+}
